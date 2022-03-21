@@ -5,4 +5,4 @@ var listLinks =
   </p>                            
 `;
       
-        document.querySelector('footer').insertAdjacentHTML('beforeend',listLinks);
+        document.querySelector('body').insertAdjacentHTML('beforeend',listLinks);
